@@ -52,6 +52,14 @@ export function NavigationBar() {
           </li>
         </LinkContainer>
 
+        <LinkContainer to="/contact">
+          <li className="nav__item">
+            <a href="#" className="nav__link">
+              Contact
+            </a>
+          </li>
+        </LinkContainer>
+
         <li className="nav__item">
           {/* <Button className="btn btn-danger">
           <LinkContainer to="/login">

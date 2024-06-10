@@ -13,8 +13,7 @@ export function Login()
     const dispatch = useDispatch();
     const navigate=useNavigate();
     const handlechange =(e)=>{
-           setformData({...formData,[e.target.name]:e.target.value});
-
+        setformData({...formData,[e.target.name]:e.target.value});
     }
     const handleregister=()=>{
             navigate("/signup")
@@ -41,18 +40,11 @@ export function Login()
             else{
                  alert("wrong number and password")
             }
-
-            
            }catch(error){
-            console.log(error);
-               
+            console.log(error);  
             alert("Network Problem")
-            
            }
-        
         //    console.log(formData);
-          
-
     }
     return(
         <>

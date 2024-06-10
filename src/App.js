@@ -27,6 +27,7 @@ import { TenantPg } from './Component.js/TenantPg';
 import { DomesticHelperNo } from './Component.js/DomesticHelper';
 import { Act } from './Component.js/Act';
 import News from './Component.js/Allnews';
+import Contact from './Component.js/Contact';
 
 
 
@@ -62,6 +63,7 @@ function App() {
         <Route path='/verification/domestic' element={<DomesticHelperNo/>}/>
         <Route path='/act' element={<Act/>}/>
         <Route path='/news' element={<News/>}/>
+        <Route path='/contact' element={<Contact></Contact>}></Route>
       </Routes>
       
       </BrowserRouter>
