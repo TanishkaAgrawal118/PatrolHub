@@ -1,7 +1,7 @@
 # PatrolHub
 
 ## Overview 🖥️
-QuickReport is an innovative application designed to digitize and streamline the process of filing First Information Reports (FIRs). This app allows users to register FIRs online, track enquiry statuses, verify tenants and neighbors, and access crucial information about their local police stations and officers. It aims to eliminate the need for physical visits to police stations, reduce corruption, and enhance transparency and efficiency in law enforcement processes.
+PatrolHub is an innovative application designed to digitize and streamline the process of filing First Information Reports (FIRs). This app allows users to register FIRs online, track enquiry statuses, verify tenants and neighbors, and access crucial information about their local police stations and officers. It aims to eliminate the need for physical visits to police stations, reduce corruption, and enhance transparency and efficiency in law enforcement processes.
 
 ### Problem Identified ❓
 
@@ -11,7 +11,7 @@ High levels of corruption involved in the process.
 Difficulty in verifying tenants and neighbors.
 
 ### Solution ✔️
-QuickReport addresses these issues by providing the following features:
+PatrolHub addresses these issues by providing the following features:
 
 Online FIR registration.
 Enquiry status tracking.
