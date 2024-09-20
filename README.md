@@ -1,12 +1,9 @@
-# Getting Started with Create React App
+# PatrolHub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview 🖥️
+QuickReport is an innovative application designed to digitize and streamline the process of filing First Information Reports (FIRs). This app allows users to register FIRs online, track enquiry statuses, verify tenants and neighbors, and access crucial information about their local police stations and officers. It aims to eliminate the need for physical visits to police stations, reduce corruption, and enhance transparency and efficiency in law enforcement processes.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+Problem Identified ❓
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
